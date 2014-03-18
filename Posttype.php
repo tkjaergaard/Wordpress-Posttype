@@ -1,4 +1,4 @@
-<?php namespace Devdk;
+<?php namespace Tkj;
 
 class Posttype {
 
